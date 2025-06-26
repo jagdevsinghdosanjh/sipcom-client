@@ -50,6 +50,7 @@ sipcomm-client/
 │ └── sipClient.ts # JsSIP UA setup and session handling └
 ── public/
 
+![alt text](Project-Directory-3.jpg)
 
 ---
 
